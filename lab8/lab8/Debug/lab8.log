@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Programming\ASD\lab8\lab8\Source.cpp(175): warning C4715: Tree::m_findMinRight: значение возвращается не при всех путях выполнения
+D:\Programming\ASD\lab8\lab8\Source.cpp(208): warning C4715: Tree::m_search: значение возвращается не при всех путях выполнения
+D:\Programming\ASD\lab8\lab8\Source.cpp(187): warning C4715: Tree::m_findMaxLeft: значение возвращается не при всех путях выполнения
+  lab8.vcxproj -> D:\Programming\ASD\lab8\Debug\lab8.exe
